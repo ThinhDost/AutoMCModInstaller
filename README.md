@@ -1,0 +1,2 @@
+# AutoMCModInstaller
+Lam cho vui
