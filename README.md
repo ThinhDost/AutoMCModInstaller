@@ -1,2 +1,2 @@
 # AutoMCModInstaller
-Lam cho vui
+$Tự động thêm mod vào minecraft$
