@@ -1,2 +1,2 @@
 # AutoMCModInstaller
-Tự động thêm mod vào minecraft
+Automatically add mods to your minecraft launcher
